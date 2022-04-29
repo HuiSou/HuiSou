@@ -1,6 +1,6 @@
 # Hui
 
-I am a dotnet developer, currently learning how to correctly run a devops and sre.
+I am a dotnet developer, currently learning how to correctly use devops and sre concept to do less work.
 
 Love BDD and Cucumber (not as a food tho)
 

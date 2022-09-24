@@ -1,3 +1,3 @@
-install chocoley
-install oh-my-posh
-install https://github.com/PowerShell/PSReadLine
+install chocoley <br/>
+install oh-my-posh <br/>
+install https://github.com/PowerShell/PSReadLine <br/>
